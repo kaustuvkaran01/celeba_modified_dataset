@@ -25,6 +25,7 @@ The data is a small fraction of the original Celeba Dataset that can be found [h
 
 Examples : 
 
+ - ![image](https://user-images.githubusercontent.com/43791878/137546741-1458b8b2-6c64-4c23-9f78-031f60af1ca7.png)
  - ![image](https://user-images.githubusercontent.com/43791878/137533762-b3bc59d5-e1cb-451f-94ff-73d908f9419a.png)
  - ![image](https://user-images.githubusercontent.com/43791878/137533888-12e8c985-9804-409a-a692-acd4f4901930.png)
  - ![image](https://user-images.githubusercontent.com/43791878/137533945-5e1f1742-3b4d-4efa-b9c8-075dfe936f94.png)
